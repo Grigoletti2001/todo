@@ -1,3 +1,6 @@
+body {
+  background-color: #FFF8E7; 
+}
 .App {
   text-align: center;
   background: #209cee; 
@@ -42,15 +45,15 @@
 }
 .todo-list {
 
-background: #e8e8e8; 
+background: #F3E5AB;
 border-radius: 4px; 
 padding: 5px; 
 max-width: 400px; 
 
 }
 .todo {
-  background: #fff; 
-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  background: #61dafb; 
+box-shadow: 1px 1px 1px rgba(5, 116, 190, 0.15);
 padding: 3px 10px;
 font-size: 12px;
 margin-bottom: 6px;
